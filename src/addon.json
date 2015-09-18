@@ -1,0 +1,6 @@
+{
+  "title" : "Prop Hunters Auto Taunt",
+  "type"  : "effects",
+  "tags"  : [ "fun" ],
+  "ignore": [ "*.swp" ]
+}
